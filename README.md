@@ -28,7 +28,7 @@ The repo showcases various methods and examples of prompt engineering, including
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/prompt-engineering-playground.git
+   git clone https://github.com/mishra123/genai-with-llm.git
    cd prompt-engineering-playground
 
 ## 🧠 What is PEFT?
